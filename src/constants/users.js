@@ -1,0 +1,4 @@
+export const REMOVE_USER = 'REMOVE_USER';
+export const FULFILLED_USERS = 'FULFILLED_USERS';
+export const REJECTED_USERS = 'REJECTED_USERS';
+export const PENDING_USERS = 'PENDING_USERS';
